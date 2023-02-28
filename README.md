@@ -1,4 +1,4 @@
-# A Healthcare dApp with Hardhat, Vite and Chakra
+# A Healthcare dApp with Hardhat, Vite and Chakra UI
 
 This project uses Hardhat for deploying and testing Solidity smart contract, and also includes a frontend project created with Vite-React.
 
