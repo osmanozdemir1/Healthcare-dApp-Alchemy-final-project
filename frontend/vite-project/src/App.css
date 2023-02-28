@@ -1,0 +1,11 @@
+#root {
+  max-width: 1280px;
+  margin: 10px auto;
+  padding: 2rem 0 1rem 0;
+  text-align: center;
+  background-color:aliceblue
+}
+
+.read-the-docs {
+  color: #888;
+}
